@@ -1,0 +1,9 @@
+
+pandas
+playwright
+beautifulsoup4
+tk
+matplotlib
+flask
+requests
+openai
